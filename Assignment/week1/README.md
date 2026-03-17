@@ -1,4 +1,4 @@
-# 📚 3월 3주차 TIL (Today I Learned)
+# 📚 1주차 TIL (Today I Learned)
 
 ### 1. 오늘 배운 개념 / 주제
 - 파이썬의 기본 문법에 대해 학습함.
