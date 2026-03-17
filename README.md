@@ -23,8 +23,8 @@ likeLionSuin/
 ├── learningLog/
 │   ├── week1/
 │   │   ├── README.md        # TIL (학습 내용 정리)
-│   │   ├── session/         # 교육 세션 자료
-│   │   └── practice/        # 실습 코드 및 결과
+│   │   ├── 교육 세션 자료
+│   │   └── 실습 코드 및 결과
 │   ├── week2/
 │   ├── week3/
 │   └── ...
