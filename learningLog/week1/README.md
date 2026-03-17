@@ -24,7 +24,7 @@
 
 ## 🔗 TIL 바로가기
 
-👉 [Week 1 TIL 보기](./learningLog/week1/TIL.md)
+👉 [Week 1 TIL 보기](./TIL.md)
 
 ---
 
