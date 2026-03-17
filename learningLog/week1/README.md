@@ -22,7 +22,7 @@
 
 ---
 
-## 🔗 TIL 바로가기
+## 🔗 TIL(Today I Learned) 바로가기
 
 👉 [Week 1 TIL 보기](./TIL.md)
 
