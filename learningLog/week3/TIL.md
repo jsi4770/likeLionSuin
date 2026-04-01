@@ -63,14 +63,7 @@
 ---
 
 ### 3. 실습 / 과제 결과물
-
-
-for model, acc in results.items():
-    print(f"{model}: {acc:.4f}")
-
-best_model = max(results, key=results.get)
-print(f"최고 성능 모델: {best_model}")
-
+[3주차 실습 코드 보기](./3주차과제_조수인.ipynb)
 
 ### 4. 느낀 점 / 배운 점 / 다음 목표
   - 이번 실습을 통해 데이터 전처리가 모델 성능에 얼마나 중요한 영향을 미치는지 직접 확인할 수 있었다. 특히 스케일링을 적용했을 때 KNN과 Neural Network의 성능이 안정적으로 나오는 것을 보며, 전처리의 필요성을 체감했다.
