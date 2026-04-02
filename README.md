@@ -22,7 +22,8 @@ Python 기초 문법부터 데이터 분석 라이브러리(NumPy, Pandas, matpl
 likeLionSuin/
 ├── learningLog/
 │   ├── week1/
-│   │   ├── README.md        # TIL (학습 내용 정리)
+│   │   ├── README.md
+│   │   ├── TIL (학습 내용 정리)
 │   │   ├── 교육 세션 자료
 │   │   └── 실습 코드 및 결과
 │   ├── week2/
