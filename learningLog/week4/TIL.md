@@ -62,7 +62,7 @@
 ---
 
 ### 4. 실습 / 과제 결과물
-👉 [4주차 MNIST 실습 코드 보기](./4주차과제_조수인.ipynb)
+👉 [4주차 MNIST 실습 코드 보기]([./4주차과제_조수인.ipynb](https://github.com/jsi4770/likeLionSuin/blob/main/learningLog/week4/4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6_%E1%84%8C%E1%85%A9%E1%84%89%E1%85%AE%E1%84%8B%E1%85%B5%E1%86%AB.ipynb))
 
 ---
 
